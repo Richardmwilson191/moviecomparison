@@ -133,8 +133,6 @@ const runComparison = () => {
     valueList[1][1].classList.add('is-warning');
     valueList[2][1].classList.remove('is-primary');
     valueList[2][1].classList.add('is-info');
-
-    console.log(valueList);
   });
 };
 
